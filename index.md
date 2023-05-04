@@ -1,9 +1,7 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to this blog. I am a student in The University of Queensland. In 2023 semester1, I am studying FastAI in the course ELEC4630 Image Processing and Computer Vision. I will make some posts to record my studying status and feelings.
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## FastAI Link
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
-
-I have a blog
+[link to fast.ai](https://www.fast.ai). 
