@@ -1,4 +1,4 @@
-# Machine learning and Neural network
+# Machine learning
 
 ## Machine Learning
 
