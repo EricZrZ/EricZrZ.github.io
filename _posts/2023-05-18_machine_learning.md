@@ -35,4 +35,3 @@ The model performance can be improved by automatically adjusting the weight assi
 More details are shown in [book's website](https://course.fast.ai/)
 
 [Click here](https://course.fast.ai/Lessons/lesson1.html) to see the deep learning courses
-
