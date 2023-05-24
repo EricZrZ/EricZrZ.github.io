@@ -1,4 +1,4 @@
-# 2023-05-18_machine_learning
+# 2023-05-18-machine_learning
 
 Here's the table of contents:
 
