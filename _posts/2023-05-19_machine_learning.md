@@ -1,9 +1,9 @@
 # 2023-05-19_machine_learning
 
-Here's the table of contents:
+<!-- Here's the table of contents:
 
 1. TOC
-{:toc}
+{:toc} -->
 
 ## Machine Learning
 
