@@ -33,5 +33,3 @@ The model performance can be improved by automatically adjusting the weight assi
 <img src="/images/training_loop.jpg" width = "800" height = "280" alt="" align=center />
 
 More details are shown in [book's website](https://course.fast.ai/)
-
-[Click here](https://course.fast.ai/Lessons/lesson1.html) to see the deep learning courses
