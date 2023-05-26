@@ -9,8 +9,8 @@ Here's the table of contents:
 
 Some features of neural network
 - Neural network is a particular kind of machine learning model
-- Highly flexible and can solve wide range of the problems by adjusting the weights
-- Stochastic gradient descent can provides a way to find weight parameter automatically
+- Highly flexible and can solve a wide range of problems by adjusting the weights
+- Stochastic gradient descent can provide a way to find weight parameters automatically
 
 
 
@@ -27,12 +27,12 @@ Some features of neural network
 **Metric:**
  
 - Human consumption
-- To show the differece between prediction and actual value
+- To show the difference between prediction and actual value
 
 ## Confusion matrix
 
-Confusion matrix is a popular method used to measure the performance of classification problem. 
-The confusion matrix conposes four parts: true positive, false positive, false negative, and true negative, which is shown in the table below.
+Confusion matrix is a popular method used to measure the performance of classification problems. 
+The confusion matrix composes four parts: true positive, false positive, false negative, and true negative, which is shown in the table below.
 
 <table style="border-collapse: collapse; border: none; border-spacing: 0px;">
 	<tr>
