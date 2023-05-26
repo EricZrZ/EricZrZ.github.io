@@ -7,18 +7,18 @@ Here's the table of contents:
 
 ## Machine Learning
 
-**One sentence to describe what is machine learning**: Show the machines the examples of problems to be solved, and then it can find the methods to resolve it by itself.
+**One sentence to describe what is machine learning**: Show the machines examples of problems to be solved, and then it can find the methods to resolve them by itself.
 
-Some powerful idea in statement, "Suppose we arrange for some automatic means of testing the 
+Some powerful idea in the statement, "Suppose we arrange for some automatic means of testing the 
 effectiveness of any current weight assignment in terms of actual performance and provide a 
-mechanism for altering the weight assignment so as to maximize the performance.", 
-propose by Samuel helps me understand the process of machine learning.
+the mechanism for altering the weight assignment to maximize the performance.", 
+proposed by Samuel helps me understand the process of machine learning.
 
 **The idea list:**
 
 - Weight assignment
 
-Weight is a kind of variable which can define the model operation
+Weight is a kind of variable that can define the model operation
 
 <img src="/images/weight_assignment.jpg" width = "500" height = "280" alt="" align=center />
 
@@ -32,4 +32,4 @@ The model performance can be improved by automatically adjusting the weight assi
 
 <img src="/images/training_loop.jpg" width = "800" height = "280" alt="" align=center />
 
-More details are shown in [book's website](https://course.fast.ai/)
+More details are shown on [book's website](https://course.fast.ai/)
